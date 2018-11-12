@@ -1,0 +1,15 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FreecodeCamp",
+    "NodeJS"
+  ],
+  "author": "Oluwafikayo Ajayi",
+  "license": "ISC"
+}
